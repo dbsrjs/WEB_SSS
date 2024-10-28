@@ -1,0 +1,71 @@
+* {
+    text-align: center;
+}
+
+header {
+    width: 30%;
+    height: 27px;
+    line-height: 27px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    margin: 0 0 5px 0;
+    /* margin: 여백 추가 */
+    /* border-radius: 모서리 둥굴게 해줌 */
+}
+
+nav {
+    width: 30%;
+    height: 27px;
+    line-height: 27px;
+    background-color: lightgrey;
+    border-radius: 5px;
+    margin: 0 0 7px 0;
+}
+
+#sec {
+    width: 30%;
+    height: 170px;
+    display: flex;
+}
+
+section {
+    width: 70%;
+    height: 170px;
+    background-color: lightgray;
+    border-radius: 5px;
+    margin: 0 0 6px 0;
+}
+
+#aricle1 {
+    background-color: pink;
+    border-radius: 5px;
+    height: 40%;
+    line-height: 65px;
+    margin: 3px 7px 4px 7px;
+    /* 위,  우측, 하단, 좌측*/
+}
+
+#aricle2 {
+    background-color: skyblue;
+    line-height: 65px;
+    border-radius: 5px;
+    height: 40%;
+    margin: 5px 7px 5px 7px;
+}
+
+aside {
+    background-color: lightgray;
+    width: 28%;
+    line-height: 165px;
+    margin: 0px 0 0 8px;
+    border-radius: 4px;
+}
+
+footer {
+    background-color: lightgray;
+    height: 27px;
+    line-height: 27px;
+    width: 30%;
+    margin: 4px 0 0 0;
+    border-radius: 4px;
+}
